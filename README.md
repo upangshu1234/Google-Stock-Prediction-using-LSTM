@@ -95,16 +95,6 @@ Predict **next 10 days** using autoregressive rolling prediction.
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-pip install -r requirements.txt
-```
-
----
-
 ## ▶️ Running the Notebook
 
 ```bash
